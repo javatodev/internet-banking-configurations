@@ -2,8 +2,6 @@ server:
   port: 8085
 
 spring:
-  application:
-    name: internet-banking-utility-payment-service
   datasource:
     url: jdbc:mysql://localhost:3306/banking_core_utility_payment_service
     username: root

@@ -1,7 +1,4 @@
 spring:
-  application:
-    name: internet-banking-api-gateway
-
   ## API SECURITY WITH KEYCLOAK PROVIDER
   security:
     oauth2:
